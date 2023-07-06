@@ -1,1 +1,1 @@
-# coding-project-template
+Pictures API - Microservice Endpoint
